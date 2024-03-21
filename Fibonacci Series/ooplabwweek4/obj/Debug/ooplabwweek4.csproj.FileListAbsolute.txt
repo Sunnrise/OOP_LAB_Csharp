@@ -1,0 +1,10 @@
+C:\Users\alper\Documents\vsstudio project\ooplabwweek2\ooplabwweek2\obj\Debug\ooplabwweek4.csproj.AssemblyReference.cache
+C:\Users\alper\Documents\vsstudio project\ooplabwweek2\ooplabwweek2\obj\Debug\ooplabwweek2.Form1.resources
+C:\Users\alper\Documents\vsstudio project\ooplabwweek2\ooplabwweek2\obj\Debug\ooplabwweek2.Properties.Resources.resources
+C:\Users\alper\Documents\vsstudio project\ooplabwweek2\ooplabwweek2\obj\Debug\ooplabwweek4.csproj.GenerateResource.cache
+C:\Users\alper\Documents\vsstudio project\ooplabwweek2\ooplabwweek2\obj\Debug\ooplabwweek4.csproj.CoreCompileInputs.cache
+C:\Users\alper\Documents\vsstudio project\ooplabwweek2\ooplabwweek2\bin\Debug\ooplabwweek2.exe.config
+C:\Users\alper\Documents\vsstudio project\ooplabwweek2\ooplabwweek2\bin\Debug\ooplabwweek2.exe
+C:\Users\alper\Documents\vsstudio project\ooplabwweek2\ooplabwweek2\bin\Debug\ooplabwweek2.pdb
+C:\Users\alper\Documents\vsstudio project\ooplabwweek2\ooplabwweek2\obj\Debug\ooplabwweek2.exe
+C:\Users\alper\Documents\vsstudio project\ooplabwweek2\ooplabwweek2\obj\Debug\ooplabwweek2.pdb

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\Documents\\vsstudio project\\ooplabwweek2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E687B6F5-9C88-49E6-97A1-3A2CE1BB3A03}|ooplabwweek2\\ooplabwweek4.csproj|c:\\users\\alper\\documents\\vsstudio project\\ooplabwweek2\\ooplabwweek4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E687B6F5-9C88-49E6-97A1-3A2CE1BB3A03}|ooplabwweek2\\ooplabwweek4.csproj|solutionrelative:ooplabwweek4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E687B6F5-9C88-49E6-97A1-3A2CE1BB3A03}|ooplabwweek2\\ooplabwweek4.csproj|c:\\users\\alper\\documents\\vsstudio project\\ooplabwweek2\\ooplabwweek4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E687B6F5-9C88-49E6-97A1-3A2CE1BB3A03}|ooplabwweek2\\ooplabwweek4.csproj|solutionrelative:ooplabwweek4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E687B6F5-9C88-49E6-97A1-3A2CE1BB3A03}|ooplabwweek2\\ooplabwweek4.csproj|c:\\users\\alper\\documents\\vsstudio project\\ooplabwweek2\\ooplabwweek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E687B6F5-9C88-49E6-97A1-3A2CE1BB3A03}|ooplabwweek2\\ooplabwweek4.csproj|solutionrelative:ooplabwweek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E687B6F5-9C88-49E6-97A1-3A2CE1BB3A03}|ooplabwweek2\\ooplabwweek4.csproj|c:\\users\\alper\\documents\\vsstudio project\\ooplabwweek2\\ooplabwweek4\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E687B6F5-9C88-49E6-97A1-3A2CE1BB3A03}|ooplabwweek2\\ooplabwweek4.csproj|solutionrelative:ooplabwweek4\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E687B6F5-9C88-49E6-97A1-3A2CE1BB3A03}|ooplabwweek2\\ooplabwweek4.csproj|c:\\users\\alper\\documents\\vsstudio project\\ooplabwweek2\\ooplabwweek4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E687B6F5-9C88-49E6-97A1-3A2CE1BB3A03}|ooplabwweek2\\ooplabwweek4.csproj|solutionrelative:ooplabwweek4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\ooplabwweek2\\ooplabwweek4\\Form1.cs",
+              "RelativeDocumentMoniker": "ooplabwweek4\\Form1.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\ooplabwweek2\\ooplabwweek4\\Form1.cs",
+              "RelativeToolTip": "ooplabwweek4\\Form1.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAD4v1QAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:14:39.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\ooplabwweek2\\ooplabwweek4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ooplabwweek4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\ooplabwweek2\\ooplabwweek4\\Form1.Designer.cs",
+              "RelativeToolTip": "ooplabwweek4\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:14:11.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\ooplabwweek2\\ooplabwweek4\\Form1.resx",
+              "RelativeDocumentMoniker": "ooplabwweek4\\Form1.resx",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\ooplabwweek2\\ooplabwweek4\\Form1.resx",
+              "RelativeToolTip": "ooplabwweek4\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-20T12:14:10.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\ooplabwweek2\\ooplabwweek2\\Program.cs",
+              "RelativeDocumentMoniker": "ooplabwweek2\\Program.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\ooplabwweek2\\ooplabwweek2\\Program.cs",
+              "RelativeToolTip": "ooplabwweek2\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:14:08.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\ooplabwweek2\\ooplabwweek4\\Form1.cs",
+              "RelativeDocumentMoniker": "ooplabwweek4\\Form1.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\ooplabwweek2\\ooplabwweek4\\Form1.cs [Design]",
+              "RelativeToolTip": "ooplabwweek4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:53:48.15Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
