@@ -1,0 +1,10 @@
+C:\Users\alper\Documents\vsstudio project\calculate\calculate\bin\Debug\calculate.exe.config
+C:\Users\alper\Documents\vsstudio project\calculate\calculate\bin\Debug\calculate.exe
+C:\Users\alper\Documents\vsstudio project\calculate\calculate\bin\Debug\calculate.pdb
+C:\Users\alper\Documents\vsstudio project\calculate\calculate\obj\Debug\calculate.csproj.AssemblyReference.cache
+C:\Users\alper\Documents\vsstudio project\calculate\calculate\obj\Debug\calculate.Properties.Resources.resources
+C:\Users\alper\Documents\vsstudio project\calculate\calculate\obj\Debug\calculate.csproj.GenerateResource.cache
+C:\Users\alper\Documents\vsstudio project\calculate\calculate\obj\Debug\calculate.csproj.CoreCompileInputs.cache
+C:\Users\alper\Documents\vsstudio project\calculate\calculate\obj\Debug\calculate.exe
+C:\Users\alper\Documents\vsstudio project\calculate\calculate\obj\Debug\calculate.pdb
+C:\Users\alper\Documents\vsstudio project\calculate\calculate\obj\Debug\calculate.Calculation.resources
