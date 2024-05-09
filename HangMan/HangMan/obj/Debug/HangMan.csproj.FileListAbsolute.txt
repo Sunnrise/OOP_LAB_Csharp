@@ -5,6 +5,7 @@ C:\Users\alper\Documents\vsstudio project\HangMan\HangMan\obj\Debug\HangMan.cspr
 C:\Users\alper\Documents\vsstudio project\HangMan\HangMan\obj\Debug\HangMan.Form1.resources
 C:\Users\alper\Documents\vsstudio project\HangMan\HangMan\obj\Debug\HangMan.GameForm.resources
 C:\Users\alper\Documents\vsstudio project\HangMan\HangMan\obj\Debug\HangMan.Properties.Resources.resources
+C:\Users\alper\Documents\vsstudio project\HangMan\HangMan\obj\Debug\HangMan.Settings.resources
 C:\Users\alper\Documents\vsstudio project\HangMan\HangMan\obj\Debug\HangMan.csproj.GenerateResource.cache
 C:\Users\alper\Documents\vsstudio project\HangMan\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
 C:\Users\alper\Documents\vsstudio project\HangMan\HangMan\obj\Debug\HangMan.exe

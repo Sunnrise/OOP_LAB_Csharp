@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|c:\\users\\alper\\documents\\vsstudio project\\hangman\\hangman\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|solutionrelative:hangman\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\hangman\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|solutionrelative:hangman\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\hangman\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|solutionrelative:hangman\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\hangman\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|solutionrelative:hangman\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\hangman\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|solutionrelative:hangman\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\hangman\\settings.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|solutionrelative:hangman\\settings.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\hangman\\images\\sett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|solutionrelative:hangman\\images\\sett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\hangman\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|solutionrelative:hangman\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|solutionrelative:hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\hangman\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|solutionrelative:hangman\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\hangman\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|solutionrelative:hangman\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\hangman\\gameform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{436B3860-A932-41B3-A64B-3D313580775A}|HangMan\\HangMan.csproj|solutionrelative:hangman\\gameform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Settings.cs",
+              "RelativeDocumentMoniker": "HangMan\\Settings.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Settings.cs",
+              "RelativeToolTip": "HangMan\\Settings.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAMwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:08:06.432Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Form1.cs",
+              "RelativeDocumentMoniker": "HangMan\\Form1.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Form1.cs [Design]",
+              "RelativeToolTip": "HangMan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:48:30.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\GameForm.cs",
+              "RelativeDocumentMoniker": "HangMan\\GameForm.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\GameForm.cs",
+              "RelativeToolTip": "HangMan\\GameForm.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAWwM0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:35:22.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Settings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Settings.cs",
+              "RelativeDocumentMoniker": "HangMan\\Settings.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Settings.cs [Design]",
+              "RelativeToolTip": "HangMan\\Settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:41:07.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\GameForm.cs",
+              "RelativeDocumentMoniker": "HangMan\\GameForm.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\GameForm.cs [Design]",
+              "RelativeToolTip": "HangMan\\GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:48:34.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.resx",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Settings.resx",
+              "RelativeDocumentMoniker": "HangMan\\Settings.resx",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Settings.resx",
+              "RelativeToolTip": "HangMan\\Settings.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-08T11:30:44.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sett.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Images\\Sett.cs",
+              "RelativeDocumentMoniker": "HangMan\\Images\\Sett.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Images\\Sett.cs",
+              "RelativeToolTip": "HangMan\\Images\\Sett.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:41:10.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "HangMan\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Settings.Designer.cs",
+              "RelativeToolTip": "HangMan\\Settings.Designer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:30:39.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Program.cs",
+              "RelativeDocumentMoniker": "HangMan\\Program.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Program.cs",
+              "RelativeToolTip": "HangMan\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:12:32.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Form1.cs",
+              "RelativeDocumentMoniker": "HangMan\\Form1.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Form1.cs",
+              "RelativeToolTip": "HangMan\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:16:36.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "HangMan\\GameForm.Designer.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\GameForm.Designer.cs",
+              "RelativeToolTip": "HangMan\\GameForm.Designer.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAYwIIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:43:08.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameForm.resx",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\GameForm.resx",
+              "RelativeDocumentMoniker": "HangMan\\GameForm.resx",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\GameForm.resx",
+              "RelativeToolTip": "HangMan\\GameForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-08T11:02:03.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

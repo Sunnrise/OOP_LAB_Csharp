@@ -32,6 +32,11 @@ namespace HangMan
             this.Hide();
         }
 
-       
+        private void Settingsbutton_Click(object sender, EventArgs e)
+        {
+            Settings settings = new Settings();
+            settings.Show();
+            this.Hide();
+        }
     }
 }

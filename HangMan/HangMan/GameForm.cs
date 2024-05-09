@@ -17,12 +17,14 @@ namespace HangMan
         private List<char> guessedLetters = new List<char>();
         private int points = 100; // Starting points
         private readonly Random random = new Random();
+        public Settings setting { get; set; }
 
         public GameForm()
         {
             InitializeComponent();
             InitializeGame();
-            GuessButton.Click += GuessButton_Click;
+            clueLabel.Visible = false;
+           buttonguess.Click += buttonguess_Click;
             this.BackgroundImage = Image.FromFile("C:\\Users\\alper\\Documents\\vsstudio project\\HangMan\\HangMan\\Images\\cover2.jpg");
             this.BackgroundImageLayout = ImageLayout.Stretch;
             hangmanPictureBox.Visible = false;
@@ -38,6 +40,8 @@ namespace HangMan
             pointsLabel.Text = "Points: " + points;
             incorrectWordLabel.Text = "Wrong Chars: ";
         }
+       
+
 
 
         private string DisplayWordToGuess() // Remove char parameter
@@ -50,10 +54,10 @@ namespace HangMan
                 else
                 {
                     displayWord += "_ ";
-                    
+
 
                 }
-                   
+
 
 
             }
@@ -99,7 +103,7 @@ namespace HangMan
                     points -= 10;
                     pointsLabel.Text = "Points: " + points;
                     UpdateHangmanImage();
-                    incorrectWordLabel.Text += letter+ "";
+                    incorrectWordLabel.Text += letter + "";
                 }
                 wordLabel.Text = DisplayWordToGuess();
                 if (wordLabel.Text.Replace(" ", "") == wordToGuess)
@@ -111,7 +115,7 @@ namespace HangMan
                 else if (points == 0)
                 {
                     MessageBox.Show("You've lost! The word was: " + wordToGuess, "Hangman", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    this.BackColor=Color.Red;
+                    this.BackColor = Color.Red;
                     this.Close();
                 }
             }
@@ -164,8 +168,7 @@ namespace HangMan
             }
 
         }
-
-        private void GuessButton_Click(object sender, EventArgs e)
+        private void buttonguess_Click(object sender, EventArgs e)
         {
             if (!string.IsNullOrWhiteSpace(letterTextBox.Text) && letterTextBox.Text.Length == 1)
             {
@@ -179,18 +182,20 @@ namespace HangMan
             letterTextBox.Clear();
         }
 
+       
+
         private void EndGameButton_Click(object sender, EventArgs e)
         {
             MessageBox.Show("You are leaving the game.", "Hangman", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             this.Close();
         }
-    
 
 
 
 
 
-    private void GameForm_Load(object sender, EventArgs e)
+
+        private void GameForm_Load(object sender, EventArgs e)
         {
 
         }
@@ -204,6 +209,15 @@ namespace HangMan
                 this.Close();
             }
 
+        }
+
+        private void btnclue_Click(object sender, EventArgs e)
+        {
+            if (clueLabel.Visible == true)
+                clueLabel.Visible = false;
+            else
+                clueLabel.Visible = true;
+            
         }
     }
 }
